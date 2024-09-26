@@ -1,1 +1,1 @@
-# guessmynumber
+# guessthenumber
